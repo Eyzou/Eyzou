@@ -1,6 +1,6 @@
 ## Hi Everyone!
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dsbGNzbWUzbXB1anV2bjFnM2gwNmgwbHUxbmxwdDZwdHZ1MTRjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10IEUy0f5V3WLu/giphy.webp" alt="Header" width="250"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2dsbGNzbWUzbXB1anV2bjFnM2gwNmgwbHUxbmxwdDZwdHZ1MTRjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10IEUy0f5V3WLu/giphy.webp" alt="Header" width="220"/>
 </p>
 
 I’m **Elodie**. After spending 6 years in the finance world 💼 and reflecting on life’s big questions 🌌, I decided to pack my backpack 🎒 and travel the world 🌍 for several months. 
